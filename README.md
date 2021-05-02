@@ -1,4 +1,4 @@
-# comiler_C
+# compiler_C
 This is a little program for compile your C file with shortcut.
 
 This program requires c compiler(mingw or other).
