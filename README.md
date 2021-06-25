@@ -8,4 +8,4 @@ after this you can lessen the window.
 then every time of press F7(the shortcut) your c file will compile.
 if your program have error the window of compiler will open else it will be close.
 
-!it is possible that your antivirus considered the .exe as a virus.!
+!it is possible that your antivirus considered the .exe as a virus!
